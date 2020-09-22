@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>qrc/board-1.png</file>
+        <file>qrc/board-2.png</file>
+        <file>qrc/board-3.png</file>
+        <file>qrc/bullet.png</file>
+        <file>qrc/background.png</file>
+        <file>qrc/monster.png</file>
+        <file>qrc/board-4.png</file>
+        <file>qrc/bomb.png</file>
+        <file>qrc/player.png</file>
+        <file>qrc/playerrocket.png</file>
+        <file>qrc/prop-1.png</file>
+        <file>qrc/rocket.png</file>
+        <file>qrc/background2.png</file>
+        <file>qrc/background-end.png</file>
+        <file>qrc/pause.png</file>
+        <file>qrc/forcefield.png</file>
+    </qresource>
+</RCC>
